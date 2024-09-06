@@ -14,4 +14,13 @@ Manejo de tipo de variables, cadenas, if, for, while
 -![image](https://github.com/user-attachments/assets/1b6ad30c-ff96-42c7-8b53-38cd6f47bb45)
 -cuando es falso
 -![image](https://github.com/user-attachments/assets/3e128bd7-95d0-4a90-9347-448976c554f9)
+## for
+-![image](https://github.com/user-attachments/assets/a553dfb9-1c9a-4347-80e7-e0ecb00ece0e)
+## while
+-cuando es verdadero
+-![image](https://github.com/user-attachments/assets/4a1fcffa-ca71-489c-9840-62b6f4d9e2d4)
+-cuando es falso
+-![image](https://github.com/user-attachments/assets/508b563b-04ee-4ed2-82d6-cb80d7b0ce01)
+
+
 
